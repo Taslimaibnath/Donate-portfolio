@@ -1,0 +1,13 @@
+.banner h1{
+    color: white;
+    text-align: center;
+    padding: 450px;
+    background-image: url(../images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+  
+
+
+}
